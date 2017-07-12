@@ -1,0 +1,5 @@
+[1]:excellent,great,perfect,very good,delicious,awsome,nice@
+[2]:good@
+[3]:average,not bad@
+[4]:bad, poop@
+[5]:fair@

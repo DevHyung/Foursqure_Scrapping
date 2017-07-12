@@ -1,0 +1,4 @@
+﻿[dessert]:dessert,salad,gorgonzola@
+[pizza]:pizza@
+[sweet]:sweet,chocolate@
+[sea food]:caviar@
